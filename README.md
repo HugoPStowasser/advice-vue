@@ -2,6 +2,7 @@
 
 Web application for managing and visualizing advice with advanced filtering and sorting capabilities.
 
+<img src="https://imgur.com/pyLJqsn" alt="Application Screenshot">
 ![Application Screenshot](https://imgur.com/pyLJqsn)
 
 ## ✨ Features
